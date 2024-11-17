@@ -3,7 +3,8 @@
     <nav>
         <ul>
             <li><a href="index.html">Home</a></li>
-            <li><a href="ethics.html">Ethics</a></li>
+            <li><a href="./pages/ethics.html">Ethics</a></li>
+
             <li><a href="about.html">About</a></li>
         </ul>
     </nav>
